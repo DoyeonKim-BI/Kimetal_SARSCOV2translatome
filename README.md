@@ -14,3 +14,4 @@ Doyeon Kim<sup>1,6</sup>, Sukjun Kim<sup>1,6</sup>, Joori Park<sup>2,3,6</sup>, 
 
 - This repository provides codes covering most of the analyses performed in the paper.
 - Sequencing data can be downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157490 .
+- Contact: Doyeon Kim (rlaehdus0918@snu.ac.kr)
