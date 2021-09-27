@@ -12,6 +12,6 @@ Doyeon Kim<sup>1,6</sup>, Sukjun Kim<sup>1,6</sup>, Joori Park<sup>2,3,6</sup>, 
 <sup>6</sup> These authors contributed equally: Doyeon Kim, Sukjun Kim, Joori Park, Hee Ryung Chang, Jeeyoon Chang, Junhak Ahn, Heedo Park.  
 ✉email: manseong.park@gmail.com; yk-kim@korea.ac.kr; baek@snu.ac.kr
 
-- This repository provides codes covering most of the analyses performed in the paper.
+- This repository provides codes covering most of the major analyses performed in the paper.
 - Sequencing data can be downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157490 .
 - Contact: Doyeon Kim (rlaehdus0918@snu.ac.kr)
